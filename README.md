@@ -1,6 +1,8 @@
 # maraton2024
 MaraTON Challenge 1
 
+Summary: The contest was about finding an efficient way to losslessly compress TON's Bag of Cells (BoC) with a time limit of 2 seconds per test case. I finished 9th place in the contest by using a bit-wise context mixing compressor.
+
 Contest page: https://codeforces.com/contest/2054
 
 Contest discussion: https://codeforces.com/blog/entry/137533
